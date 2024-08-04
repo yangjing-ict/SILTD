@@ -1,1 +1,1 @@
-Note that our datasets are provided by [He et al.](https://arxiv.org/pdf/2303.14822), and they can be downloaded from [here](https://drive.google.com/drive/folders/1p4iBeM4r-sUKe8TnS4DcYlxvQagcmola?usp=sharing).
+Note that our datasets are provided by [He et al.](https://arxiv.org/pdf/2303.14822).
